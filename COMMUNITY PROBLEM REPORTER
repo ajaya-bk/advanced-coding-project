@@ -1,6 +1,6 @@
 #COMMUNITY PROBLEM REPORTER
 1.controllers
-- __iniit__.py
+- __init__.py
 - problem_controller.py
 
 2.models
