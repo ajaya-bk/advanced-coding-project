@@ -9,7 +9,7 @@ class ProblemController:
     def view_problems(self):
         problems = Problem.fetch_all()
         if problems:
-            print("\nList of Reported Problems:")
+            print("List of Reported Problems:")
             for problem in problems:
                 print(f"ID: {problem[0]}, Title: {problem[1]}, Description: {problem[2]}, "
                       f"Location: {problem[3]}, Reporter: {problem[4]}")
