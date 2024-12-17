@@ -5,7 +5,7 @@ class ProblemController:
        
         problem = Problem(title=title, description=description, location=location, reporter=reporter)
         problem.save()
-        print("\nProblem reported successfully.")
+        print("Problem reported successfully.")
 
     def view_problems(self):
         
