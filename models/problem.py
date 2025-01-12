@@ -1,4 +1,4 @@
-from models.base_model import BaseModel
+from models.base_models import BaseModel
 
 class Problem(BaseModel):
     def __init__(self, title, description, location, reporter):
