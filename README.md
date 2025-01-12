@@ -13,6 +13,7 @@ Community Problem Reporter
 1. Report a Problem
 2. View All Problems
 3. Exit
+   
 Enter your choice: 1
 
 Enter the title of the problem: Broken Streetlight
