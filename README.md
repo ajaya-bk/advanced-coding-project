@@ -16,13 +16,13 @@ Community Problem Reporter
    
 Enter your choice: 1
 
-Enter the title of the problem: Broken Streetlight
+Enter the problem title: Broken Streetlight
 
-Enter a description of the problem: The streetlight near the park is broken.
+Enter a problem description: The streetlight near the park is broken.
 
 Enter the location of the problem: Tierpark
 
-Enter your name (reporter): Joshep
+Enter your name: Joshep
 
 Problem reported successfully.
 
