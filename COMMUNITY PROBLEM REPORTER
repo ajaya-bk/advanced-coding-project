@@ -9,7 +9,7 @@
 - database.py
 - problem.py
 
-3. app.py
+3. main.py
 
 4. community_problems.db
 5. requirements.txt
